@@ -1,6 +1,6 @@
 {
 
-  "homepage": "https://jnvshubham7.github.io/TextUtils",
+  "homepage": "https://Vks56.github.io/TextUtils",
 
   "name": "textutils",
 
@@ -15,8 +15,6 @@
     "@testing-library/react": "^13.4.0",
 
     "@testing-library/user-event": "^13.5.0",
-
-    "gh-pages": "^6.1.1",
 
     "react": "^18.2.0",
 
@@ -79,6 +77,12 @@
       "last 1 safari version"
 
     ]
+
+  },
+
+  "devDependencies": {
+
+    "gh-pages": "^6.1.1"
 
   }
 
